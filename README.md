@@ -1,6 +1,6 @@
 # Camera App Interface
 - This project is a simple front-end interface for a Camera app. 
-- it is built using CSS & HTMl and serves as a beginner project to practice Web-Dev.
+- it is built using CSS & HTML and serves as a beginner project to practice Web-Dev.
 - i made this project follwoing my Apna College web-dev course.
 
 # Features 
